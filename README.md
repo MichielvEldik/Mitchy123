@@ -1,4 +1,4 @@
-### Welcome to my GitHub profile :octocat: 
+### Welcome to my GitHub profile! :octocat: 
 
 * :mortar_board: MSc Marketing Analytics & Data Science student.
 * :movie_camera: Chairman Media Team of Marketing Association University of Groningen.
